@@ -1,0 +1,15 @@
+.label-text {
+    display: flex;
+    align-items: center;
+
+    .value {
+        margin-left: 5px;
+        border: 1px solid #fff;
+        padding: 0px 5px;
+        border-radius: 5px;
+        min-width: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
